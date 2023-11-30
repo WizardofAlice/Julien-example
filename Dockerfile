@@ -14,3 +14,4 @@ RUN sed -i 's/127.0.0.1/0.0.0.0/g' dsvw.py
 EXPOSE 65412
 
 CMD ["python3", "dsvw.py"]
+#I can edit this file
